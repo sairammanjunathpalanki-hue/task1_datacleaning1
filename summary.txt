@@ -1,0 +1,10 @@
+DATA CLEANING SUMMARY
+Dataset Used: Mall Customer Segmentation Dataset
+Changes Performed:
+1. Checked for missing values.
+2. Removed duplicate records.
+3. Standardized text values.
+4. Verified column names and data consistency.
+5. Saved the cleaned dataset as cleaned_dataset.csv.
+Outcome:
+The dataset was successfully cleaned and prepared for further analysis.
